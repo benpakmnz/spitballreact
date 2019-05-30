@@ -1,0 +1,135 @@
+      p{
+          margin: 5px;
+          font-size: 13px;
+          line-height: 20px;
+          color: #A0A0A0;
+      }
+
+      a{
+          text-decoration: none;
+          color: unset
+      }
+
+      li{
+        list-style-type: none;
+      }
+      
+      .postContainer{
+        background: white;
+        width:64vw;
+        max-width: 640px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 4px;
+        box-sizing: border-box;
+        box-shadow: 0 1px 2px 0 rgba(0,0,0,.24);
+      }
+      
+      .postHeader{
+        display:flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+        width: 95%;
+      }
+      
+      .headerLeft{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .avatar{
+          border-radius: 100%;
+          height: 32px;
+          width: 32px;
+          background-color: #a55fff;
+          margin-right: 10px;
+
+      }
+
+      .postInfo{
+          display: flex;
+      }
+      .more{
+        align-self: flex-end;
+        position: absolute;
+      }
+
+      .spitballer{
+          font-style: italic;
+          background-color: #5C5C5C;
+          color: white;
+          text-align: center;
+          border-radius: 10px;
+          padding: 0 12px;
+        }
+        .price{
+            font-size: 20px;
+        }
+      .mainPost{
+        display: flex;
+        flex-direction: row;
+        padding-top: 12px;
+        box-sizing: border-box;
+       }
+
+      .votesContainer{
+          height: 80px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding-left: 8px;
+          width: 5%;
+          box-sizing: border-box;
+      }
+
+      .content{
+        width: 95%; 
+        padding-left: 12px;
+        box-sizing: border-box;
+        overflow-wrap: break-word;
+      }
+
+      i{
+          color: #A8A8A8;
+      }
+
+      .postText{
+        background-color: #F8F8F8;
+        padding: 12px 8px;
+      }
+
+      .postTitleRow{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;  
+       }
+
+      .postTitle{
+        font-weight: bold;
+        color: #202020;
+
+      }
+
+
+      .statistics{
+          display: flex;
+          align-items: center;
+          align-self: flex-end;
+          justify-self: flex-end;
+      }
+
+
+      @media (max-width: 600px) {
+        .postInfo{
+            flex-direction: column;
+        }
+        .spitballer{
+            order: 1;
+        }
+      }
+
+        
