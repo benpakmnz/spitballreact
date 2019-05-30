@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spitballreact/static/css/main.b0ed6f3a.chunk.css",
+    "main.css": "/spitballreact/static/css/main.e1dd471e.chunk.css",
     "main.js": "/spitballreact/static/js/main.8397ada7.chunk.js",
     "main.js.map": "/spitballreact/static/js/main.8397ada7.chunk.js.map",
     "runtime~main.js": "/spitballreact/static/js/runtime~main.757c8b75.js",
@@ -8,8 +8,8 @@
     "static/js/2.6efc73d3.chunk.js": "/spitballreact/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/spitballreact/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/spitballreact/index.html",
-    "precache-manifest.299891f1c01202347a4460bc5a7897ba.js": "/spitballreact/precache-manifest.299891f1c01202347a4460bc5a7897ba.js",
+    "precache-manifest.f492f1b0b14232520097341c2a08bdb4.js": "/spitballreact/precache-manifest.f492f1b0b14232520097341c2a08bdb4.js",
     "service-worker.js": "/spitballreact/service-worker.js",
-    "static/css/main.b0ed6f3a.chunk.css.map": "/spitballreact/static/css/main.b0ed6f3a.chunk.css.map"
+    "static/css/main.e1dd471e.chunk.css.map": "/spitballreact/static/css/main.e1dd471e.chunk.css.map"
   }
 }

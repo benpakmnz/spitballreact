@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spitballreact/precache-manifest.299891f1c01202347a4460bc5a7897ba.js"
+  "/spitballreact/precache-manifest.f492f1b0b14232520097341c2a08bdb4.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ef5eb6d2d81b9c82f00e61cfafb6c54",
+    "revision": "df1db39d235ccbfbae2bbc542d31296d",
     "url": "/spitballreact/index.html"
   },
   {
-    "revision": "b42b147013a92df3f923",
-    "url": "/spitballreact/static/css/main.b0ed6f3a.chunk.css"
+    "revision": "266f0088dae01f9a0262",
+    "url": "/spitballreact/static/css/main.e1dd471e.chunk.css"
   },
   {
     "revision": "45124f853ba07aa965c0",
     "url": "/spitballreact/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "b42b147013a92df3f923",
+    "revision": "266f0088dae01f9a0262",
     "url": "/spitballreact/static/js/main.8397ada7.chunk.js"
   },
   {
